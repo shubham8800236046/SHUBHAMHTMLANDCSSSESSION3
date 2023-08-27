@@ -1,0 +1,58 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.row{
+    
+    display: flex
+    
+
+}
+H1{
+    color: black;
+    background-color: aqua;
+    width: 1000px;
+    margin: auto;
+    
+}
+
+h2{
+    font-size: 15px;
+    
+}
+
+.box1{
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 5px;
+    background-color: aqua;
+    
+}
+
+.box2{
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    background-color: blueviolet;
+  
+    
+
+}
+.box3{
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 300px;
+    background-color: bisque;
+    
+}
